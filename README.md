@@ -1,9 +1,9 @@
 # lab1-1
 ## lab 1-1
 ### lab 1-1
-*lab1-1
-  +lab1-1
-    -lab1-1
+* lab1-1
+  + lab1-1
+    - lab1-1
 
 > lab 1-1_calculator
 >> lab 1-1_calculator
